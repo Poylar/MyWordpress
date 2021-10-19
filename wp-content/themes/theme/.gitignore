@@ -1,6 +1,2 @@
-/node_modules
-npm-debug.log
-package-lock.json
-yarn.lock
-/assets/public/css
-/assets/public/js
+node_modules
+dist
