@@ -1,0 +1,19 @@
+:root {
+  --container-width:1440px;
+  --white: #fff;
+  --light-gray:: #FBFBFB;
+  --blue: #0f81dd;
+  --dark-blue: #0e63a8;
+  --black: #37383f;
+  --gray: #f3f3f3;
+  --text: #2e2e34;
+  --footer: #3b3c46;
+  --font: Roboto;
+  @media (max-width:1440px) {
+    --container-width:1300px;
+  }
+  @media (max-width:1024px) {
+    --container-width:1200px;
+  }
+}
+
